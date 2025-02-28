@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Node modules
+node_modules/
+
+# Generated files
+assistant_data.json
+thread_data.json
+assistant.json
+
+# Knowledge base files (if not meant to be shared)
+Knowledgebase.docx
+
+# Logs
+*.log
