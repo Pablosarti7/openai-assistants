@@ -116,3 +116,5 @@ function get_location() {
 
 
 export { businessInfoFunctions, get_services, get_pricing, get_business_hours, get_location };
+
+// this comment is for testing purposes
